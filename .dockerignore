@@ -1,0 +1,11 @@
+node_modules
+.npm-cache
+release
+build
+dist
+.vite
+electron
+*.dmg
+*.zip
+*.blockmap
+.DS_Store
